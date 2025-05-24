@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm Judie Nicole Boncocan from Cavite State University - Imus Campus 📚<br><br>- 🔭 I am an aspiring web developer with a passion for designing visually appealing websites using color and creativity.<br>- 📚 I'm currently a second-year college student taking a Bachelor of Science in Information Technology.<br>- ⚡ In my free time I read books and watch movies </p>
+<p align="left">I'm Judie Nicole Boncocan from Cavite State University - Imus Campus 📚<br><br>- 🔭 I am currently learning C++, PHP, and Github. <br>- 📚 I'm currently a second-year college student taking a Bachelor of Science in Information Technology.<br>- ⚡ In my free time I read books and watch movies </p>
 
 ###
 
